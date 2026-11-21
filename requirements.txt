@@ -1,0 +1,10 @@
+# Core packages used by src/run_pipeline.py.
+# Replace these with exact versions from your own environment before submitting:
+#   pip freeze | grep -iE "^(pandas|numpy|scikit-learn|catboost|shap|matplotlib)=="
+# and paste the output here (e.g. pandas==2.2.2) so results are reproducible.
+pandas
+numpy
+scikit-learn
+catboost
+shap
+matplotlib
